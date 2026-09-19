@@ -1,0 +1,59 @@
+:root {
+    background-color: gray;
+}
+
+.header {
+    font-size: 2em;
+    text-align: center;
+    border: 1px solid gray;
+    display: block;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color: rgb(66, 66, 66);
+    color: white;
+
+}
+
+.playerInfo{
+    margin-left: 50px;
+    text-align: center;
+}
+
+.playerInfo input {
+    border-radius: 5px;
+    padding: 5px;
+    background-color: white;
+    margin-right: 5px;
+    cursor: pointer;
+    border-style: none;
+}
+
+.playerInfo select {
+    border-radius: 5px;
+    padding: 5px;
+    background-color: white;
+    cursor: pointer;
+    border-style: none;
+
+}
+
+.button{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.button button{
+    padding: 10px;
+    font-size: 1.5em;
+    border-radius: 10px;
+    background-color: hsl(212, 89%, 57%);
+    border-style: none;
+    cursor: pointer;
+}
+
+.flex-box-all {
+    border: 1px solid black;
+    margin: 5px;
+}
